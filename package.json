@@ -1,0 +1,37 @@
+{
+  "name": "VideoChat",
+  "title": "Video Chat | Messaging",
+  "version": "0.0.1",
+  "description": "Video Chat | Messaging",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roshancode/VC.git"
+  },
+  "keywords": [
+    "Video Chat | Messaging",
+    "server",
+    "realtime",
+    "messaging",
+    "websocket",
+    "streaming",
+    "webrtc",
+    "chat"
+  ],
+  "author": "Roshan Lamichhane",
+  "bugs": {
+    "url": "https://github.com/roshancode/VC/issues"
+  },
+  "homepage": "https://github.com/roshancode/VC#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "redis": "^2.8.0",
+    "symple": "^1.0.8",
+    "symple-client": "^1.0.2",
+    "symple-client-player": "^1.0.6"
+  }
+}
