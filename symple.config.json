@@ -1,0 +1,12 @@
+{
+  "port" : 5000,
+
+  "anonymous" : false,
+
+  "sessionTtl" : 15,
+
+"redis" : {
+    "host" : "localhost",
+    "port" : 6379
+  }
+}
